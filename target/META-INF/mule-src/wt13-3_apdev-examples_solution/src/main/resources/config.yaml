@@ -1,0 +1,17 @@
+http:
+  port: "8081"
+  
+sfdc:
+  username: "khushi89@njclab.com"
+  password: "Khushboo@123"
+  token: "A1uAYiD3vTUsYRJJTRNKgBgp"
+
+file:
+  accountsDir: "C:/Users/Home/OneDrive/Desktop/APDevFundamentals4.3_studentFiles_30jul2021/APDevFundamentals4.3_studentFiles_30jul2021/resources"
+  
+db:
+  host: "mudb.learn.mulesoft.com"
+  port: "3306"
+  user: "mule"
+  password: "mule"
+  database: "training"
